@@ -110,7 +110,7 @@ GetMap.app does not knowingly collect personal information from children under t
 CHANGES TO THIS POLICY
 
 GetMap.app reserves the rights to change this Privacy Policy at any time. Please check this page periodically for changes. Your use of the services after any such amendment or change in the Privacy Policy shall be deemed as your express acceptance to such amended/changed Privacy Policy and an assent to be bound by such changed/amended Privacy Policy. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
-This Policy is available on https://getmap.app/Privacy-Policy_Pages_3.html
+This Policy is available on https://truedem.github.io/getmapapp/
 
 GOVERNING LAW
 
