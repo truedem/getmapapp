@@ -1,4 +1,4 @@
-Version: March 10, 2020. This Privacy Policy is effective immediately for Users after that date.
+Version: June 7, 2021. This Privacy Policy is effective immediately for Users after that date.
 
 GetMap.app ("we," "us,") respect your privacy and are committed to protecting it through our compliance with this Privacy Policy. This policy describes:
 
