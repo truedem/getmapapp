@@ -1,2 +1,1 @@
-# getmapapp
-GetMap Project
+# GetMap Project
