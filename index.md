@@ -1,4 +1,4 @@
-Version: June 7, 2021. This Privacy Policy is effective immediately for Users after that date.
+Version: August 14, 2021. This Privacy Policy is effective immediately for Users after that date.
 
 GetMap.app ("we," "us,") respect your privacy and are committed to protecting it through our compliance with this Privacy Policy. This policy describes:
 
@@ -66,6 +66,12 @@ WHAT WE DO WITH THE INFORMATION WE COLLECT?
 Like other Websites and/or Mobile Apps, we collect information to enhance your visit and deliver more individualised content. We respect your privacy and do not share your information with anyone, except in cases when that proves necessary.
 We will retain the information we collect from you for a period of maximum of 5 /five/ years, or less if it is no longer necessary for the provision of the GetMap.app services to you. After the expiry of this period we undertake to delete any information we have collected from you.
 Aggregate information and information that does not personally identify you, may be used in many ways. For example, GetMap.app may combine information about your usage patterns on the Website and/or Mobile App with similar information obtained from other users to help enhance our site and Services (e.g., to learn which pages are visited the most or what features Users find the most attractive). This information does not include any information about you and does not allow anyone to identify you individually. We may use personally identifiable information, collected on the Website and/or Mobile App, to communicate with you about your registration and customisation preferences; our Terms of Service and Privacy Policy; services and products offered by or through the Website and/or Mobile App; and other topics we think you might find of interest. Personally identifiable information collected by GetMap.app may also be used for other purposes, including but not limited to Website and/or Mobile App administration, troubleshooting, processing of e-commerce transactions and other communications with you.
+
+ADDITINAL POLICIES
+
+GetMap.app application use third-party Mapbox API to display maps with user position on them. Mapbox API also allow to search and display locations on the map by its street address and coordinates. You can review Mapbox privacy policy on this page:
+
+https://www.mapbox.com/legal/privacy/
 
 DISCLOSURE
 
